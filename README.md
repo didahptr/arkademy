@@ -1,2 +1,3 @@
 # arkademy soal 6.a database
-Buka XAMPP jalankan mysql 
+
+1. Buka XAMPP jalankan mysql 
