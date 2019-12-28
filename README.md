@@ -26,3 +26,5 @@
    https://imgur.com/3BgZDfx
 10.insert into cashier values(1,'pevita pearce);
    https://imgur.com/fgCuWRp
+11.menampilkan data yang telah dibuat:
+   https://imgur.com/x40z587
