@@ -33,3 +33,6 @@
 
 JSON sebagai format untuk bertukar data client dan server atau antar aplikasi. Contoh: RESTful API;
 https://www.petanikode.com/json-pemula/
+
+# arcademy soal 6.b
+https://www.figma.com/proto/NafsPUQfv4CqOfOyiF3V6y/didah?node-id=1%3A2&scaling=scale-down
