@@ -28,3 +28,8 @@
    https://imgur.com/fgCuWRp
 11.menampilkan data yang telah dibuat:
    https://imgur.com/x40z587
+   
+# arkademy soal 1 
+
+JSON sebagai format untuk bertukar data client dan server atau antar aplikasi. Contoh: RESTful API;
+https://www.petanikode.com/json-pemula/
